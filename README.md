@@ -2,7 +2,7 @@ import random
 
 class RockPaperScissorsGame:
     def __init__(self):
-        self.user_score = 0
+        self.user_score = 0 
         self.computer_score = 0
 
     def get_user_choice(self):
